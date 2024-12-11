@@ -1,0 +1,1 @@
+Load some music in this folder. Supported formats: wav, ogg, flac

@@ -1,0 +1,6 @@
+TODO:
+- Add MP3 support
+- Add track's name showing
+- Add track's picture showing
+- Fix error with first track's name
+- Fix error with launching from place not connected to IDE
